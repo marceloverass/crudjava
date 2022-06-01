@@ -13,7 +13,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
-    
+    <link rel="icon" href="favicon.ico">
     <!---->
 
     <meta charset="UTF-8">
@@ -35,7 +35,7 @@
     <main class="container-geral">
         <div class="form-container">
             <div class="icon-container">
-                <img src="https://cdn-icons-png.flaticon.com/512/91/91544.png" width="150px">
+                <img src="https://cdn-icons-png.flaticon.com/512/91/91544.png" width="100px">
                 <h3>Cadastrar:</h3>
             </div>
             <div class="form">
@@ -54,7 +54,8 @@
     </main>
     
     <footer>
-        <p>Feito por Rian Lima</p>
+        <p>Desenvolvido por <a href="https://github.com/marceloverass" style="color:#6ebf8b
+">Marcelo Veras</a></p>
     </footer>
     <!--Scripts-->
     <script src="https://kit.fontawesome.com/19376f285c.js" crossorigin="anonymous"></script>

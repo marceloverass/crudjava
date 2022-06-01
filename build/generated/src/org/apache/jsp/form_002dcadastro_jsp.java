@@ -52,7 +52,7 @@ public final class form_002dcadastro_jsp extends org.apache.jasper.runtime.HttpJ
       out.write("    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n");
       out.write("    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n");
       out.write("    <link href=\"https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap\" rel=\"stylesheet\">\n");
-      out.write("    \n");
+      out.write("    <link rel=\"icon\" href=\"favicon.ico\">\n");
       out.write("    <!---->\n");
       out.write("\n");
       out.write("    <meta charset=\"UTF-8\">\n");
@@ -74,7 +74,7 @@ public final class form_002dcadastro_jsp extends org.apache.jasper.runtime.HttpJ
       out.write("    <main class=\"container-geral\">\n");
       out.write("        <div class=\"form-container\">\n");
       out.write("            <div class=\"icon-container\">\n");
-      out.write("                <img src=\"https://cdn-icons-png.flaticon.com/512/91/91544.png\" width=\"150px\">\n");
+      out.write("                <img src=\"https://cdn-icons-png.flaticon.com/512/91/91544.png\" width=\"100px\">\n");
       out.write("                <h3>Cadastrar:</h3>\n");
       out.write("            </div>\n");
       out.write("            <div class=\"form\">\n");
@@ -93,7 +93,8 @@ public final class form_002dcadastro_jsp extends org.apache.jasper.runtime.HttpJ
       out.write("    </main>\n");
       out.write("    \n");
       out.write("    <footer>\n");
-      out.write("        <p>Feito por Rian Lima</p>\n");
+      out.write("        <p>Desenvolvido por <a href=\"https://github.com/marceloverass\" style=\"color:#6ebf8b\n");
+      out.write("\">Marcelo Veras</a></p>\n");
       out.write("    </footer>\n");
       out.write("    <!--Scripts-->\n");
       out.write("    <script src=\"https://kit.fontawesome.com/19376f285c.js\" crossorigin=\"anonymous\"></script>\n");
